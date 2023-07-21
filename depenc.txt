@@ -1,6 +1,0 @@
-pip install openzeppelin-cairo-contracts
-
-https://docs.starknet.io/documentation/getting_started/environment_setup/
-
-
-pip install cairo-nile
